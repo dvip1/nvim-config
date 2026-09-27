@@ -1,0 +1,7 @@
+# Plugins, parsers, Mason tools and undo history live in ~/.local/share/nvim,
+# so nothing generated ends up here. Keep lazy-lock.json committed.
+*.bak
+*.swp
+*~
+.DS_Store
+.luarc.json
